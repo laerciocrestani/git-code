@@ -1,1 +1,1 @@
-<?php echo 'teste'; ?>
+<?dasdasphp echo 'Or teste'; ?>
